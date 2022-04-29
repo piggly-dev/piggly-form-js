@@ -4,6 +4,8 @@ vendor
 node_modules
 dist
 build
+lib
+es5
 cjs
 es
 debug
